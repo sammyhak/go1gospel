@@ -1,1 +1,6 @@
 
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/go1gospel/public_html/
+    - /bin/cp -R images $DEPLOYPATH
