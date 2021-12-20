@@ -1,2 +1,11 @@
 *.nc
 *.DS_store
+app/Console/Kernel.php
+app/Console/Commands/CachePaginationCounts.php
+app/Console/Commands/MigrateDatabaseCustomCode.php
+app/Console/Commands/MigrateDatabaseTranslations.php
+app/Console/Commands/ResetDemoAdminAccount.php
+app/Console/Commands/SeedSampleData.php
+app/Console/Commands/TruncateMusicData.php
+app/Console/Commands/UpdateAllChannelsContent.php
+.gitignore
