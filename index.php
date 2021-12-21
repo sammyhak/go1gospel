@@ -55,3 +55,6 @@ if ( ! file_exists(__DIR__.'/.env') || ! (preg_match('/INSTALLED=(true|1)/', fil
 </div>
 </body>
 </html>
+
+
+<!-- bossssss -->
